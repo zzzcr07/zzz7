@@ -15,7 +15,7 @@
       url: "https://ipspeed.info/free-l2tpipsec.php"
       description: "免费L2TP/IPsec VPN服务。 (Tips: 默认密码：vpn 密钥：vpn 用户名：vpn)"
     - title: all-l2tp
-      logo: ""
+      logo: "https://www.google.com/s2/favicons?sz=64&domain=www.vpnhub.me"
       url: "https://www.vpnhub.me/en/all-l2tp-vpn-list.html#"
       description: "L2TP VPN列表。"
     - title: vpngate
@@ -39,27 +39,27 @@
       url: "https://app.koofr.net/app/storage/26c1e8c0-27e1-44a0-5e98-bda89429a882"
       description: "Koofr云存储服务。"
     - title: InfiniCLOUD
-      logo: ""
+      logo: "https://www.google.com/s2/favicons?sz=64&domain=soya.infini-cloud.net"
       url: "https://soya.infini-cloud.net/browser/#https://soya.infini%2Dcloud.net/v2/dav/"
       description: "InfiniCLOUD网盘。"
     - title: terabox
-      logo: ""
+      logo: "https://www.google.com/s2/favicons?sz=64&domain=www.terabox.com"
       url: "https://www.terabox.com/"
       description: "TeraBox云盘。"
     - title: MEGA
-      logo: ""
+      logo: "https://www.google.com/s2/favicons?sz=64&domain=mega.nz"
       url: "https://mega.nz/file/68pm0I7Z#rw_FP_eFHeTf-hYsCT1i8TPev0JzLos9lxeoHhoIZRI"
       description: "MEGA网盘。 (Tips: zcr071225@gmail.com zb)"
     - title: 阿里云盘
-      logo: ""
+      logo: "https://www.google.com/s2/favicons?sz=64&domain=www.aliyundrive.com"
       url: "https://www.aliyundrive.com/drive"
       description: "阿里云盘。"
     - title: 百度云盘
-      logo: ""
+      logo: "https://www.google.com/s2/favicons?sz=64&domain=pan.baidu.com"
       url: "https://pan.baidu.com/disk/main?from=homeSave&_at_=1771852964418#/index?fromSource=share&category=all&path=%2F"
       description: "百度网盘。 (Tips: 13991998174@qq.com z8 13991998174 zb0)"
     - title: 豆包
-      logo: ""
+      logo: "https://www.google.com/s2/favicons?sz=64&domain=www.doubao.com"
       url: "https://www.doubao.com/chat/drive/9488514636975106?tab=myUpload"
       description: "豆包网盘。"
     - title: Tools2
