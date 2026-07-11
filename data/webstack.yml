@@ -3,7 +3,7 @@
   description: 各类云存储和网盘服务
   links:
     - title: check.proxyip
-      logo: ""
+      logo: "https://www.google.com/s2/favicons?sz=64&domain=check.proxyip.cmliussss.net"
       url: "https://check.proxyip.cmliussss.net/"
       description: "代理IP检测工具。"
     - title: ip2free 家宽
@@ -11,7 +11,7 @@
       url: "https://www.ip2free.com/cn/freeProxy"
       description: "免费家宽代理服务。 (Tips: zkkev53@ F7)"
     - title: L2TP/IPsec
-      logo: ""
+      logo: "https://www.google.com/s2/favicons?sz=64&domain=ipspeed.info"
       url: "https://ipspeed.info/free-l2tpipsec.php"
       description: "免费L2TP/IPsec VPN服务。 (Tips: 默认密码：vpn 密钥：vpn 用户名：vpn)"
     - title: all-l2tp
@@ -19,23 +19,23 @@
       url: "https://www.vpnhub.me/en/all-l2tp-vpn-list.html#"
       description: "L2TP VPN列表。"
     - title: vpngate
-      logo: ""
+      logo: "https://www.google.com/s2/favicons?sz=64&domain=www.vpnhub.me"
       url: "https://www.vpngate.net/en/"
       description: "公共VPN中继服务器。 (Tips: 默认密码：vpn 密钥：vpn 用户名：vpn)"
     - title: google云盘
-      logo: ""
+      logo: "https://www.google.com/s2/favicons?sz=64&domain=drive.google.com"
       url: "https://drive.google.com/drive/folders/1S6UH1p-nm8WMRA1gbW0Y7_KwNLeU5Sta"
       description: "Google Drive共享文件夹。"
     - title: onedrive
-      logo: ""
+      logo: "https://www.google.com/s2/favicons?sz=64&domain=onedrive.live.com"
       url: "https://onedrive.live.com/?sortField=LinkFilename&isAscending=true&viewid=8e110e38%2D6d3f%2D436c%2D8dc1%2Ddb7119ce57ab&login_hint=zb9678%40outlook%2Ecom&view=0"
       description: "OneDrive网盘。"
     - title: Freecloud
-      logo: ""
+      logo: "https://www.google.com/s2/favicons?sz=64&domain=panel.freecloud.ltd"
       url: "https://panel.freecloud.ltd/clientarea.php"
       description: "Freecloud服务面板。"
     - title: Koofr
-      logo: ""
+      logo: "https://www.google.com/s2/favicons?sz=64&domain=app.koofr.net"
       url: "https://app.koofr.net/app/storage/26c1e8c0-27e1-44a0-5e98-bda89429a882"
       description: "Koofr云存储服务。"
     - title: InfiniCLOUD
